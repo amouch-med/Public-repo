@@ -1,4 +1,4 @@
- <b>This public repository acts like the developer page for AMCHDEVx<b>
+ <b>This public repository acts like the developer page for AMCHDEVx</b>
 
  <ul>hello and welcome to this repository.<ul>
  
